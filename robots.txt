@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nyaruchen.github.io/nyaruchen/sitemap.xml
