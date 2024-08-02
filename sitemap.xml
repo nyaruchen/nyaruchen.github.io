@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://nyaruchen.github.io/2024/08/02/%E5%85%A8%E8%87%AA%E5%8A%A8Twitter%E7%82%B9%E8%B5%9E%E8%84%9A%E6%9C%AC/</loc>
+    
+    <lastmod>2024-08-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://nyaruchen.github.io/google3f70ef0f722463f0.html</loc>
     
     <lastmod>2024-06-18</lastmod>
@@ -85,7 +94,7 @@
 
   <url>
     <loc>http://nyaruchen.github.io/</loc>
-    <lastmod>2024-06-18</lastmod>
+    <lastmod>2024-08-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -95,7 +104,7 @@
   
   <url>
     <loc>http://nyaruchen.github.io/categories/%E6%96%B0%E9%97%BB%E8%BD%AC%E8%BD%BD/</loc>
-    <lastmod>2024-06-18</lastmod>
+    <lastmod>2024-08-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
